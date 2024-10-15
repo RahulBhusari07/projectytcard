@@ -1,0 +1,7 @@
+.card1,
+.car2,
+.card3 {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
